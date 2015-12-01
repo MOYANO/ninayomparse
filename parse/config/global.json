@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "_default": {
+      "link": "ninayommap"
+    },
+    "ninayommap": {
+      "applicationId": "SLkWB4MRcBkidJ3E3aTJAiKW6knMm8fhOIsB3nqJ",
+      "masterKey": "S3CqBAkJO96sRiiAHU2a0srkGPdup5eE662MGPMo"
+    }
+  }
+}
